@@ -1,5 +1,7 @@
 ## Tony McMapface Tonemapping for Unity
 
+Only compatible with Unity BIRP and HDRP, unity URP dosn't seems to understand external HDR tonemapping
+
 Based on the original [Tony McMapface by Tomasz Stachowiak](https://github.com/h3r2tic/tony-mc-mapface)
 
 ![Screenshot_2](https://github.com/FairplexVR/AgX-Tonemapping-Unity/assets/31825109/77b5c477-06d3-485c-becd-2db7d94214a5)
