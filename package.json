@@ -1,0 +1,16 @@
+{
+  "name": "com.fairplex.mcmapface",
+  "displayName": "Tony McMapface Tonemapping",
+  "version": "1.0.0",
+  "description": "Tony McMapface Tonemapping for Unity",
+  "author": {
+    "name": "Fairplex",
+    "url": "https://github.com/FairplexVR/Tony-McMapface-Tonemapping-Unity"
+  },
+  "unity": "2022.3",
+  "dependencies": {},
+  "directories": {
+    "package": "Fairplex/Tony McMapface Tonemapping"
+  },
+  "license": "MIT"
+}
